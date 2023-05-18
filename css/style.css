@@ -1,8 +1,10 @@
 *{
-	font-family: 'Courier New', Courier, monospace;
+	font-family: 'Quicksand','Courier New', Courier, monospace;
 	line-height: 1.5;
 }
-
+h1{
+	font-size: 2.5em;
+}
 body {
 	font-family: Arial, sans-serif;
 	margin: 0;
@@ -15,6 +17,7 @@ header {
 	background-color: #ddb7ab;
 	color: #f4eeed;
 	padding: 10px;
+	
 }
 
 nav ul {
@@ -46,6 +49,7 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
+	
 }
 
 .centered-image {
@@ -58,7 +62,7 @@ main {
 .centered-image img {
 	max-width: 100%;
 	max-height: 100%;
-	border-radius: 50%;
+	border-radius: 35%;
 }
 
 h2 {
@@ -111,4 +115,9 @@ footer {
 	padding: 10px;
 	color: #f4eeed;
 	font-size: 0.8em;
+	
+}
+
+p{
+	font-size: 1.5em;
 }
