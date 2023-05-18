@@ -3,7 +3,8 @@
 	line-height: 1.5;
 }
 h1{
-	font-size: 2.5em;
+	font-size: 3em;
+	color: #303030;
 }
 body {
 	font-family: Arial, sans-serif;
@@ -66,7 +67,7 @@ main {
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 2.5em;
 	margin-bottom: 20px;
 }
 
@@ -78,6 +79,7 @@ ul {
 
 li {
 	margin-bottom: 10px;
+	font-size: 1.5rem;
 }
 
 form label {
@@ -120,4 +122,8 @@ footer {
 
 p{
 	font-size: 1.5em;
+}
+#prices li{
+	text-align: left;
+	margin-left: 1%;
 }
